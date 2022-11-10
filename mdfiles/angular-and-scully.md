@@ -1,7 +1,9 @@
 ---
-title: Angular and Scully
-description: blog description
-published: false
+title: 'Angular and Scully'
+description: 'How to build a blog with Angular and Scully'
+published: true
 ---
 
 # Angular and Scully
+
+Angular is a robust JavaScirpt framework that we can use to build excellent and performant web applications. Scully is a popular static website generator that empowers the angular with Jamstack characterstics
